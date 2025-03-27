@@ -1,29 +1,18 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0cjhjZGIwY2M4anVzZXB3cTZpZzcxcTNtd3YxbzhkdWtza3hvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif" width="200"/>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aliaksandr-ushakou/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIXXXA&style=flat-square&color=blue" alt=""/>
   <h1>Hey there :vulcan_salute:</h1>
   <img src="https://media.giphy.com/media/qoHf1p7uXvna0/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me:
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-
 - :telescope: I'm working as an Android developer for 5 years.
-  
 - :seedling: I’m involved in developing applications for Android.
-
 - :zap: In my spare time I read technical articles.
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PIXXXA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-ushakou/)
+
+
+### :fountain_pen: My Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXXXA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,12 +31,18 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <h1></h1>
 </div>
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PIXXXA)](https://git.io/streak-stats)
-
-
-### :fountain_pen: My Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIXXXA)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0cjhjZGIwY2M4anVzZXB3cTZpZzcxcTNtd3YxbzhkdWtza3hvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif" width="200"/>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aliaksandr-ushakou/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PIXXXA&style=flat-square&color=blue" alt=""/>
+</div>
