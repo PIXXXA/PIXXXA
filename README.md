@@ -8,7 +8,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :telescope: I'm working as an Android developer for 5 years.
 - :seedling: I’m involved in developing applications for Android.
 - :zap: In my spare time I read technical articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PIXXXA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-ushakou/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aliaksandr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-ushakou/)
 
 
 ### :fountain_pen: My Languages :
